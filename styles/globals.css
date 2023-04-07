@@ -29,24 +29,24 @@ body {
   text-align: center;
   text-shadow: 1px 1px #000, 2px 2px #000;
   font-weight: 700;
-  font-size: 5rem;
+  font-size: 2rem;
 }
 
 p {
-  font-size: 5rem;
+  font-size: 2rem;
 }
 
 input {
   margin-right: 1rem;
-  font-size: 5rem;
+  font-size: 2rem;
 }
 button {
-  font-size: 5rem;
+  font-size: 2rem;
 }
 
 .form {
   background-color: white;
-  padding: 5rem;
+  padding: 2rem;
   border-radius: 8px;
   text-align: center;
 }
